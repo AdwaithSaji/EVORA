@@ -1,0 +1,3 @@
+# P2 — retrieval, verification, eval (on top of base.txt)
+pandas
+tabulate

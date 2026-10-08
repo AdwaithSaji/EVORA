@@ -1,0 +1,13 @@
+# P1 — core + indexing. Install CUDA torch first (see README).
+numpy
+pyyaml
+pillow
+opencv-python
+av
+faiss-cpu            # swap for faiss-gpu on Linux if wanted
+transformers>=4.44
+sentencepiece
+ultralytics>=8.3
+lap                  # ByteTrack dependency
+scikit-learn         # color k-means
+pytest

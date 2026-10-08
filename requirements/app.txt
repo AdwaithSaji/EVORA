@@ -1,0 +1,10 @@
+# P4 — UI, parser, memory (CPU only; works without base.txt against mocks)
+numpy
+pyyaml
+pillow
+opencv-python
+streamlit>=1.38
+streamlit-drawable-canvas
+ollama
+rapidfuzz
+pytest

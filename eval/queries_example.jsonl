@@ -1,0 +1,2 @@
+{"id": "ex01", "query": "Did a red car pass through the main gate in the last hour?", "memory": {"main gate": "cam01"}, "answers": [{"camera_id": "cam01", "offset_start": 840, "offset_end": 846}], "type": "object+location+time", "needs_memory": true}
+{"id": "ex02", "query": "Show me a person carrying a large bag", "answers": [{"camera_id": "cam01", "offset_start": 845, "offset_end": 860}, {"camera_id": "cam02", "offset_start": 960, "offset_end": 985}, {"camera_id": "cam04", "offset_start": 1320, "offset_end": 1340}], "type": "open-vocab", "needs_memory": false}

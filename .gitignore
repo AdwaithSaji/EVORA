@@ -1,0 +1,29 @@
+# data & artifacts — share via Google Drive, never commit
+data/
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.db
+*.faiss
+*.npy
+*.pt
+*.pth
+*.onnx
+*.safetensors
+eval/results/
+runs/
+
+# personal
+CLAUDE.local.md
+.claude/settings.local.json
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+.env
